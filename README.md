@@ -256,23 +256,37 @@ No direct three-provider performance benchmark has been conducted.
 
 Screenshots of project development and local API testing are available in the `screenshots/` directory.
 
-| Screenshot | Description |
-|---|---|
-| 01_project_setup.png | Project structure |
-| 02_dependencies_installed.png | Installed dependencies |
-| 03_configuration.png | Environment configuration |
-| 04_url_validation.png | URL validation |
-| 05_website_extraction.png | Website content extraction |
-| 06_llm_integration.png | Gemini integration |
-| 07_pydantic_schemas.png | Pydantic schemas |
-| 08_analysis_service.png | Analysis service |
-| 09_fastapi_application.png | FastAPI application |
-| 10_api_running.png | Running API server |
-| 11_swagger_ui.png | Swagger documentation |
-| 12_health_check.png | Health endpoint |
-| 13_successful_api_response.png | Successful API response |
-| 13_successful_response_bottom.png | Response details |
-| 14_error_handling.png | Invalid URL response |
+## Screenshots
+
+### Project Setup
+![Project Setup](screenshots/01_project_setup.png)
+
+### Dependencies Installed
+![Dependencies Installed](screenshots/02_dependencies_installed.png)
+
+### Configuration
+![Configuration](screenshots/03_configuration.png)
+
+### URL Validation
+![URL Validation](screenshots/04_url_validation.png)
+
+### Website Extraction
+![Website Extraction](screenshots/05_website_extraction.png)
+
+### LLM Integration
+![LLM Integration](screenshots/06_llm_integration.png)
+
+### Successful API Response
+![Successful API Response](screenshots/13_successful_api_response.png)
+
+### Error Handling
+![Error Handling](screenshots/14_error_handling.png)
+
+### Real Website Test
+![Real Website Test](screenshots/15_real_website_test.png)
+
+### Pytest Results
+![Pytest Results](screenshots/16_pytest_results.png)
 
 Additional real website testing was performed with Microsoft. Its output is not independently verified market research.
 
