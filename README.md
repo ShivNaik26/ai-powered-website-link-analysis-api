@@ -324,5 +324,3 @@ Actual API costs depend on provider pricing and usage.
 
 License to be selected before public release.
 ```
-
-### Step 1 – Save and verify
