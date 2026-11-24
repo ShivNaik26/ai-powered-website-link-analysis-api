@@ -323,4 +323,3 @@ Actual API costs depend on provider pricing and usage.
 ## 16. License
 
 License to be selected before public release.
-```
